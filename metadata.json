@@ -1,0 +1,7 @@
+{
+	"name": "Microphone Status",
+	"description": "Displays an overlay indicating if the microphone is muted.",
+	"uuid": "micstatus@mitjafelicijan",
+	"shell-version": ["45", "46", "47"],
+	"stylesheet": "stylesheet.css"
+}

@@ -1,0 +1,13 @@
+.mic-status-indicator {
+	border-radius: 6px;
+	margin: 4px 0px;
+	padding: 4px 0px;
+}
+
+.mic-status-indicator-on {
+	background-color: green;
+}
+
+.mic-status-indicator-off {
+	background-color: crimson;
+}
